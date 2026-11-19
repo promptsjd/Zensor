@@ -1,0 +1,6 @@
+{
+  "name": "Zensor · Zen Rice Sorting",
+  "description": "A calm Zen tabletop rice-sorting game built with Matter.js physics, wooden counter perspective, and translucent glass bowls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
